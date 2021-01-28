@@ -1,1 +1,1 @@
-hello-user = Hello, {$userName}!
+profile-title = Hello, {$name}!
